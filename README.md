@@ -4,7 +4,8 @@
 
 Our Enterprise Learning Management System (LMS) is a comprehensive platform designed to deliver, manage, and track online learning programs within organizations. Built with Next.js, React, and TypeScript, this platform offers a scalable, secure, and engaging learning experience for enterprises of all sizes.
 
-![LMS Dashboard](public/images/lms-dashboard.png)
+![image](https://github.com/user-attachments/assets/e9ef9a8f-a404-4f7e-959c-5c17d8dc311e)
+
 
 ## Key Features
 
